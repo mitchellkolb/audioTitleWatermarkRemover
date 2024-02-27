@@ -29,12 +29,13 @@
 
 This website https://spotify-downloader.com/ allows users to convert and download their spotify playlists 100 songs at a time but in the file title of each of the songs is the downloader site's watermark. This program removes that string of text in front of every song in the specified folder where your songs are located. 
 
-Before -> "[SPOTIFY-DOWNLOADER.COM] After Dark"
-After -> "After Dark"
+- Before -> "[SPOTIFY-DOWNLOADER.COM] After Dark"
+- After -> "After Dark"
 
 ## :sparkles: Features
 
 :heavy_check_mark: Customtkinter GUI
+
 :heavy_check_mark: Folder Wide Access
 
 ![GUI Image](images/gui.png "GUI Image")
