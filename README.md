@@ -76,7 +76,7 @@ Check the Repo Releases for the compiled executable to download and run
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/Mitchell-kolb" target="_blank">Mitchell</a>
+Made with :heart: by <a href="https://github.com/mitchellkolb" target="_blank">Mitchell</a>
 
 &#xa0;
 
